@@ -67,7 +67,7 @@
 ## :fire: My stats:
 
 
- <div style="display: flex; flex-direction: column; width: 500px; gap:20px">
+ 
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=999Debi&theme=dracula"  />
 
@@ -75,6 +75,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999Debi&layout=compact&theme=vision-friendly-dark"  />
-    </div>
+
 
 
